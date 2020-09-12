@@ -1,0 +1,4 @@
+C:\Users\Kubilay\Desktop\WebApi\ArticleWebApi\Base\Service\ServiceImplementations\bin\Debug\netcoreapp3.1\DataTransferInterfaces.dll
+C:\Users\Kubilay\Desktop\WebApi\ArticleWebApi\Base\Service\ServiceImplementations\obj\Debug\netcoreapp3.1\ServiceImplementations.csprojAssemblyReference.cache
+C:\Users\Kubilay\Desktop\WebApi\ArticleWebApi\Base\Service\ServiceImplementations\obj\Debug\netcoreapp3.1\ServiceImplementations.AssemblyInfoInputs.cache
+C:\Users\Kubilay\Desktop\WebApi\ArticleWebApi\Base\Service\ServiceImplementations\obj\Debug\netcoreapp3.1\ServiceImplementations.AssemblyInfo.cs

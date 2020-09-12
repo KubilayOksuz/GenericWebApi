@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BaseDataTransferInterfaces/1.0.0": {
+        "runtime": {
+          "BaseDataTransferInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaseDataTransferInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
